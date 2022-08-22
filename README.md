@@ -1,9 +1,9 @@
 # Telegram Bot
 
 ## Used libraries:
-https://github.com/pengrad/java-telegram-bot-api
-https://github.com/FasterXML/jackson-core
-https://github.com/jhy/jsoup
+https://github.com/pengrad/java-telegram-bot-api  
+https://github.com/FasterXML/jackson-core  
+https://github.com/jhy/jsoup  
 
 ## Functionality:
 Available commands:
